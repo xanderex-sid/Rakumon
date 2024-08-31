@@ -1,0 +1,20 @@
+{
+    "history": [
+        {
+            "role": "user",
+            "parts": "Hiii Rakumon"
+        },
+        {
+            "role": "model",
+            "parts": "Hey Neha!  What can I do for you today?  Are you ready to  unleash your inner shopaholic?  \ud83d\ude1c"
+        },
+        {
+            "role": "user",
+            "parts": "Mere liye T shirts dikhao"
+        },
+        {
+            "role": "model",
+            "parts": "T-shirts? Okay,  Neha, let's get you some cool threads. Tell me, what kind of style are you looking for? Something casual, funky, or maybe a bit more formal?"
+        }
+    ]
+}

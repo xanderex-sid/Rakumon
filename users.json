@@ -1,0 +1,145 @@
+{
+    "user_id_1" : {
+        "user_name": "Siddharth",
+        "user_age": 21,
+        "user_gender": "Male",
+        "user_location": "Delhi, India",
+        "user_hobby_and_passion": "Gamer, Techie",
+        "user_like_to_travel": true
+    },
+    "user_id_2" : {
+        "user_name": "Aisha",
+        "user_age": 27,
+        "user_gender": "Female",
+        "user_location": "Mumbai, India",
+        "user_hobby_and_passion": "Fitness Enthusiast, Vegan Cooking",
+        "user_like_to_travel": true,
+        "user_profession": "Yoga Instructor",
+        "user_social_media_presence": {
+            "instagram": "@aishayoga",
+            "youtube": "Aisha's Wellness"
+        },
+        "user_favorite_brands": ["Lululemon", "Nike", "Patagonia"]
+    },
+    "user_id_3" : {
+    "user_name": "Carlos",
+    "user_age": 35,
+    "user_gender": "Male",
+    "user_location": "Madrid, Spain",
+    "user_hobby_and_passion": "Photography, Traveling",
+    "user_like_to_travel": true,
+    "user_profession": "Freelance Photographer",
+    "user_camera_gear": {
+        "camera_body": "Canon EOS R5",
+        "lenses": ["24-70mm f/2.8", "50mm f/1.2"],
+        "drone": "DJI Mavic Air 2"
+    },
+    "user_favorite_travel_destinations": ["Iceland", "Japan", "New Zealand"]
+}
+,
+    "user_id_4" : {
+    "user_name": "Mei",
+    "user_age": 22,
+    "user_gender": "Female",
+    "user_location": "Shanghai, China",
+    "user_hobby_and_passion": "Art, Fashion Design",
+    "user_like_to_travel": false,
+    "user_profession": "Fashion Student",
+    "user_social_media_presence": {
+        "weibo": "@mei_fashion",
+        "douyin": "@meidesigns"
+    },
+    "user_favorite_designers": ["Alexander McQueen", "Vivienne Westwood", "Gucci"]
+}
+,
+    "user_id_5" : {
+    "user_name": "David",
+    "user_age": 40,
+    "user_gender": "Male",
+    "user_location": "New York, USA",
+    "user_hobby_and_passion": "Finance, Stock Market Analysis",
+    "user_like_to_travel": "occasionally",
+    "user_profession": "Investment Banker",
+    "user_investment_interests": {
+        "stocks": ["Tech", "Healthcare", "Energy"],
+        "cryptocurrency": ["Bitcoin", "Ethereum"],
+        "real_estate": true
+    },
+    "user_favorite_tech_tools": ["Bloomberg Terminal", "Excel", "Python"]
+},
+    "user_id_6" : {
+        "user_name": "Ananya",
+        "user_age": 21,
+        "user_gender": "Female",
+        "user_location": "Delhi, India",
+        "user_hobby_and_passion": "Book Lover, Artist",
+        "user_like_to_travel": false
+    }
+    ,
+    "user_id_7" : {
+        "user_name": "Rohan",
+        "user_age": 21,
+        "user_gender": "Male",
+        "user_location": "Delhi, India",
+        "user_hobby_and_passion": "Fitness enthusiast",
+        "user_like_to_travel": true
+    }
+    ,
+     "user_id_8" : {
+        "user_name": "Preeti",
+        "user_age": 45,
+        "user_gender": "Female",
+        "user_location": "Delhi, India",
+         "Occupation" : "Teacher",
+        "Preference": "Traditional Wear",
+        "user_like_to_travel": false
+    }
+    ,
+    "user_id_9" : {
+        "user_name": "Ravina",
+        "user_age": 25,
+        "user_gender": "Female",
+        "user_location": "Delhi, India",
+         "Occupation" : "Corporate Job",
+        "Preference": "Professional Wear",
+        "user_like_to_travel": false
+    },
+    "user_id_10":{
+    "user_name": "Priya",
+    "user_age": 28,
+    "user_gender": "Female",
+    "user_location": "Bangalore, India",
+    "user_hobby_and_passion": "Fitness Enthusiast, Eco-conscious",
+    "user_like_to_travel": true,
+    "user_fashion_preference": "Athleisure",
+    "user_preferred_brands": ["Patagonia", "Adidas", "Allbirds"]
+},
+    "user_id_11":{
+    "user_name": "Neha",
+    "user_age": 28,
+    "user_gender": "Female",
+    "user_location": "Bangalore, India",
+    "user_hobby_and_passion": "Yoga, eco friendly",
+    "user_like_to_travel": true
+},
+     "user_id_12":{
+    "user_name": "Rakshit",
+    "user_age": 24,
+    "user_gender": "Male",
+    "user_location": "Bangalore, India",
+    "user_hobby_and_passion": "Bodybuilding",
+    "user_like_to_travel": true,
+    "user_fashion_preference": "Streetwear",
+    "user_preferred_brands": ["Nike", "Adidas"]
+},
+     "user_id_13":{
+    "user_name": "Hero",
+    "user_age": 24,
+    "user_gender": "Male",
+    "user_location": "Delhi, India",
+    "user_hobby_and_passion": "Fitness Freak",
+    "user_like_to_travel": true,
+    "user_fashion_preference": "Streetwear",
+    "user_preferred_brands": ["Nike", "Adidas"]
+}
+}

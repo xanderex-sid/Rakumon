@@ -1,0 +1,50 @@
+{
+    "user1": {
+        "message_to_user": "@rakumon\n\nRakumon: Income tax is calculated on the total income, which includes any amount before TDS (Tax Deducted at Source) is deducted. TDS is a method of collecting tax at the source of income, and the amount deducted as TDS is credited against the income tax liability when you file your tax return. So, income tax is calculated on your total income, including the amount from which TDS has been deducted.",
+        "products_are_produced": true,
+        "products": [
+            {
+                "product_img_url": "https://m.media-amazon.com/images/I/31LqzOsHtJL._AC_.jpg",
+                "product_title": "Goodthreads Women's High-Rise Chino Girlfriend Short",
+                "product_description": "This is a brief description of Product 1.",
+                "product_price": "$19.99"
+            },
+            {
+                "product_img_url": "https://m.media-amazon.com/images/I/31LqzOsHtJL._AC_.jpg",
+                "product_title": "Goodthreads Women's High-Rise Chino Girlfriend Short",
+                "product_description": "This is a brief description of Product 2.",
+                "product_price": "$29.99"
+            },
+            {
+                "product_img_url": "https://m.media-amazon.com/images/I/31LqzOsHtJL._AC_.jpg",
+                "product_title": "Goodthreads Women's High-Rise Chino Girlfriend Short",
+                "product_description": "This is a brief description of Product 3.",
+                "product_price": "$39.99"
+            }
+        ]
+    },
+    "user1": {
+        "message_to_user": "@rakumon\n\nRakumon: Income tax is calculated on the total income, which includes any amount before TDS (Tax Deducted at Source) is deducted. TDS is a method of collecting tax at the source of income, and the amount deducted as TDS is credited against the income tax liability when you file your tax return. So, income tax is calculated on your total income, including the amount from which TDS has been deducted.",
+        "products_are_produced": true,
+        "products": [
+            {
+                "product_img_url": "https://m.media-amazon.com/images/I/31LqzOsHtJL._AC_.jpg",
+                "product_title": "Goodthreads Women's High-Rise Chino Girlfriend Short",
+                "product_description": "This is a brief description of Product 1.",
+                "product_price": "$19.99"
+            },
+            {
+                "product_img_url": "https://m.media-amazon.com/images/I/31LqzOsHtJL._AC_.jpg",
+                "product_title": "Goodthreads Women's High-Rise Chino Girlfriend Short",
+                "product_description": "This is a brief description of Product 2.",
+                "product_price": "$29.99"
+            },
+            {
+                "product_img_url": "https://m.media-amazon.com/images/I/31LqzOsHtJL._AC_.jpg",
+                "product_title": "Goodthreads Women's High-Rise Chino Girlfriend Short",
+                "product_description": "This is a brief description of Product 3.",
+                "product_price": "$39.99"
+            }
+        ]
+    }
+}

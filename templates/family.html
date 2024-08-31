@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Family Chat</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='family.css') }}">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+
+<body>
+    <div class="chat-container">
+        <div class="chat-header">
+            <h2>Chatter & Share: Family Talk with a Twist!</h2>
+        </div>
+
+        <!-- Person selector -->
+        <div class="person-selector">
+            <button class="button person-selector-button active-person" id="Siddharth-selector">Rakshit</button>
+            <button class="button person-selector-button" id="Snehanshu-selector">Neha</button>
+        </div>
+
+
+        <div id="chat-box" class="chat-box">
+            <!-- Chat messages will appear here -->
+        </div>
+
+        <div class="input-container">
+            <!-- Brush button -->
+            <button class="brush-button" onclick="navigateToDesigner()">
+                <i class="fas fa-paint-brush"></i>
+            </button>
+            <input type="text" id="message" placeholder="Type your message...">
+            <button onclick="sendMessage()">Send</button>
+            <button class="family-button" onclick="navigateToIndex()">
+                <i class="fas fa-robot"></i>
+            </button>
+        </div>
+
+        <button class="button clear-chat-button" onclick="clearChat()">Clear Chat</button>
+    </div>
+
+    <!-- Link to your custom JavaScript file -->
+    <script src="{{ url_for('static', filename='family.js') }}"></script>
+    <script>
+        function navigateToDesigner() {
+            window.location.href = '/designer';
+        }
+
+        function navigateToIndex() {
+            window.location.href = '/';
+        }
+
+        let currentPerson = 'Rakshit';
+
+        document.getElementById('Siddharth-selector').addEventListener('click', function () {
+            currentPerson = 'Rakshit';
+            updatePersonSelector(this);
+        });
+
+        document.getElementById('Snehanshu-selector').addEventListener('click', function () {
+            currentPerson = 'Neha';
+            updatePersonSelector(this);
+        });
+
+        function updatePersonSelector(button) {
+            document.querySelectorAll('.person-selector-button').forEach(btn => {
+                btn.classList.remove('active-person');
+            });
+            button.classList.add('active-person');
+            document.getElementById('message').placeholder = `Type here, ${currentPerson}...`;
+        }
+
+        function clearChat() {
+            document.getElementById('chat-box').innerHTML = '';
+        }
+    </script>
+</body>
+
+</html>

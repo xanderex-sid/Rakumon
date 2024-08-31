@@ -1,0 +1,8 @@
+google-generativeai
+typing-extensions
+torch
+numpy==1.26.4
+flask
+pillow
+requests
+huggingface-hub
