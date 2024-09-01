@@ -45,6 +45,8 @@ If you want to access our vector database of products and our Pinecone retrieval
 2. Siddharth Mishra
 - 21je0918@iitism.ac.in ( If you need help creating and integrating your own RAG pipeline with the chat agent in the project. )
 
+Also, please make sure to add your own API keys as specified in the relevant files.
+
 ### STEPS
 
 1. If you have completed the 'Necessary Step' as provided above, First run the `query_service_agent.py` file. It will run the RAG pipeline.
