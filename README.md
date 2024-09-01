@@ -20,7 +20,7 @@ That’s where Rakumon comes in. It’s a new type of e-commerce platform, a sys
 
 ## Demo Video
 
-[![Rakumon](https://img.youtube.com/vi/KWtN9PD8FGo/0.jpg)](https://www.youtube.com/watch?v=KWtN9PD8FGo)
+[![Rakumon](https://img.youtube.com/vi/KWtN9PD8FGo/0.jpg)](https://www.youtube.com/embed/KWtN9PD8FGo)
 
 
 Click on the video above or <a href="https://www.youtube.com/watch?v=KWtN9PD8FGo">here</a> to watch the demo.
