@@ -9,11 +9,11 @@ from sentence_transformers import SentenceTransformer
 app = FastAPI()
 
 # Initialize Mistral and Pinecone clients
-mistral_api_key = "LT4hpqvlFuXXuinglel6XnCmJXQuGjjN"
+mistral_api_key = "YOUR_MISTRAL_API"
 mistral_model = "mistral-large-latest"  # Adjust to your actual model if needed
 
-pc = Pinecone(api_key='5a9fb6d6-b376-484c-b0b3-c3fbc6d21208')
-index = pc.Index('ecom-vectordb') # "product-vectordb"
+pc = Pinecone(api_key='YOUR_PINECONE_API')
+index = pc.Index('ecom-vectordb') # Please contact 21je0928@iitism.ac.in incase you cannot access this vectorDB.
 emb_model = SentenceTransformer('BAAI/bge-m3')
 
 # Example queries for reference
