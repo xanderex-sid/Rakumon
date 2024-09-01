@@ -1,11 +1,11 @@
 # Rakumon
-Rakumon: Your Real LIFE Doraemon
+Rakumon: Your Real Life Doraemon
 ------------------------------------------------------------------------------------------------------------------------------------
 
 ### Introduction
 ------------------------------------------------------------------------------------------------------------------------------------
 
-Let's take a scenario: 
+Let's take a scenario,
 
 Whenever you go shopping with your family or friends, you might enter a clothing store filled with a wide variety of shirts, T-shirts, jeans, trousers, pants, socks, belts, and what not! The sheer number of options can be overwhelming, making it difficult to decide. Let's say you're looking for your dream shirt—the perfect design, fabric, and color. However, finding that exact shirt can be challenging. Often, you either settle for something else with a bit of disappointment, or you leave the store still searching for that dream shirt.
 
