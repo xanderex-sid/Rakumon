@@ -29,3 +29,19 @@ Click on the video above or <a href="https://www.youtube.com/watch?v=KWtN9PD8FGo
 ## Detailed Approach
 
 ![Detailed Approach](https://github.com/RustyGrackle/Rakumon/blob/main/readme_content/detailed_approach.jpg)
+
+## Try It Yourself!
+
+### NOTE
+
+You need to create your own dataset and vector database. You can then retrieve products using Pinecone (recommended) or FAISS.
+After creating your own dataset and vector database, please update the code in the necessary files as needed, especially `query_service_agent.py`.
+
+If you want to access our vector database of products and our Pinecone retrieval method, or if you need help creating your own RAG, please contact these members of the project.
+
+- Snehanshu Mukherjee: [21je0928@iitism.ac.in] (To gain access to our data, get help, or fully understand how to create your own RAG pipeline.)
+- Siddharth Mishra: [21je0918@iitism.ac.in] (If you need help creating and integrating your own RAG pipeline with the chat agent in the project.)
+
+### STEPS
+
+1. Simply 
