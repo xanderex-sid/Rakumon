@@ -9,7 +9,10 @@ import json
 import os
 import time
 
-gemini_api = "AIzaSyDm405ADxMiDWho-n1BrZX6xiuCGSZm1oc"
+# Please contact 21je0918@iitism.ac.in incase you face any issue.
+
+
+gemini_api = "YOUR_GEMINI_API_KEY"
 genai.configure(api_key=gemini_api)
 
 #-----------------------------This Will Talk To User--------------------------#
