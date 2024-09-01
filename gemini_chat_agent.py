@@ -6,9 +6,9 @@ import google.generativeai as genai
 import typing_extensions as typing
 
 app = FastAPI()
+# Please contact 21je0918@iitism.ac.in incase you face any issue.
 
-
-gemini_api = "AIzaSyDm405ADxMiDWho-n1BrZX6xiuCGSZm1oc"
+gemini_api = "YOUR_GEMINI_API"
 genai.configure(api_key=gemini_api)
 
 
