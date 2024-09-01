@@ -68,7 +68,7 @@ I want to extend my heartfelt thanks to every member of this project and their c
 
 - Thank you for leading this project and being the primary source of ideation of this project. Your contributions to creating data of e-commerce products, creating and enhancing the full RAG pipeline have been truly invaluable.
 
-2. Gurleen Kaur Gill, `email:` and,
+2. Gurleen Kaur Gill, `email:` gill.gurleenkaur2004@gmail.com and,
 3. Avneet Kaur, `email:` avneet15khanna@gmail.com
 
 - Thank you for your exceptional UI/UX design work, creating the complete frontend pipeline, and designing the web framework. This project would not have succeeded in Rakathon without both of you on our team.
