@@ -2,4 +2,4 @@
 Rakumon: Your Real Doraemon
 
 
-![Uploading Final_Demo_Rakumon_GenAiSys.gif…]()
+![rakumon](https://github.com/RustyGrackle/Rakumon/blob/main/readme_content/Final_Demo_Rakumon_GenAiSys.gif)
