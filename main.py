@@ -18,11 +18,14 @@ with open("family_history_with_rakumon.json", 'w') as file:
 
 app = Flask(__name__)
 
-hf_token = "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"
+# Please contact 21je0918@iitism.ac.in or siddharthmishra.work@gmail.com incase you face any issue.
+# Please contact 21je0928@iitism.ac.in incase you face any issue.
+
+hf_token = "HUGGINGFACE_API_TOKEN"
 login(token=hf_token, add_to_git_credential=True)
 
 API_URL = "https://api-inference.huggingface.co/models/black-forest-labs/FLUX.1-schnell"
-headers = {"Authorization": "Bearer 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"}
+headers = {"Authorization": f"Bearer {hf_token}"}
 
 def query(payload):
 	response = requests.post(API_URL, headers=headers, json=payload)
@@ -132,7 +135,7 @@ def creative_image_search(image_path, num): # vectorDB search will be here
     return response
 
 def generate_response_designer(user_message):
-    # Simple rule-based response for now
+
     s = user_message.strip()
     try:
         for i in range(3):
@@ -231,7 +234,7 @@ def generate_response(user_message):
     ### User
     with open("users.json", 'r') as file:
         data = json.load(file)
-    user_details = data['user_id_11']  # From On-boarding process
+    user_details = data['user_id_12']  # From On-boarding process
 
     with open("history.json", 'r') as file:
         history_data = json.load(file)
