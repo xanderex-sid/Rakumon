@@ -8,7 +8,7 @@ Rakumon: Your Real Doraemon
 [![Rakumon](https://img.youtube.com/vi/KWtN9PD8FGo/0.jpg)](https://www.youtube.com/watch?v=KWtN9PD8FGo)
 
 
-Click on the video above or <a href="https://img.youtube.com/vi/KWtN9PD8FGo/0.jpg)](https://www.youtube.com/watch?v=KWtN9PD8FGo">here</a> to watch the demo.
+Click on the video above or <a href="https://www.youtube.com/watch?v=KWtN9PD8FGo">here</a> to watch the demo.
 
 
 ### Detailed Approach
