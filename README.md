@@ -75,7 +75,7 @@ I want to extend my heartfelt thanks to every member of this project and their c
 
 - Thank you for your exceptional UI/UX design work, creating the complete frontend pipeline, and designing the web framework. This project would not have succeeded in Rakathon without both of you on our team.
 
-4. Siddharth Mishra, `email` 21je0918@iitism.ac.in
+4. Siddharth Mishra, `email:` 21je0918@iitism.ac.in
 
 - I want to thank my team for their support. Creating the full pipeline, integrating each part (frontend, backend, AI agents) of the project, and developing the chat agent and AG component of the RAG would not have been possible without the constant feedback from my teammates.
 
