@@ -2,7 +2,7 @@
 The Rakumon: Your Real Life Doraemon
 ------------------------------------------------------------------------------------------------------------------------------------
 
-### Introduction
+## Introduction
 ------------------------------------------------------------------------------------------------------------------------------------
 
 Let's take a scenario,
@@ -17,7 +17,7 @@ Wouldn't it be great if you could get these personalizations—the help from the
 
 That’s where Rakumon comes in. It’s a new type of e-commerce platform, a system where you have your own personalized online shopkeeper (AI). Where you can add your family and friends so all of you can shop online together. You can chat with each other, browse products together, and get personalized product recommendations and descriptions tailored to your needs from your online shopkeeper — THE RAKUMON.
 
-### Demo Video
+## Demo Video
 ------------------------------------------------------------------------------------------------------------------------------------
 
 [![Rakumon](https://img.youtube.com/vi/KWtN9PD8FGo/0.jpg)](https://www.youtube.com/watch?v=KWtN9PD8FGo)
@@ -26,6 +26,6 @@ That’s where Rakumon comes in. It’s a new type of e-commerce platform, a sys
 Click on the video above or <a href="https://www.youtube.com/watch?v=KWtN9PD8FGo">here</a> to watch the demo.
 
 
-### Detailed Approach
+## Detailed Approach
 ------------------------------------------------------------------------------------------------------------------------------------
 ![Detailed Approach](https://github.com/RustyGrackle/Rakumon/blob/main/readme_content/detailed_approach.jpg)
