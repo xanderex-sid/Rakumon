@@ -39,10 +39,11 @@ After creating your own dataset and vector database, please update the code in t
 
 If you want to access our vector database of products and our Pinecone retrieval method, or if you need help creating your own RAG, please contact these members of the project.
 
-- Snehanshu Mukherjee:
-  21je0928@iitism.ac.in (To gain access to our data, get help, or fully understand how to create your own RAG pipeline.)
-- Siddharth Mishra:
-  21je0918@iitism.ac.in (If you need help creating and integrating your own RAG pipeline with the chat agent in the project.)
+1. Snehanshu Mukherjee
+- 21je0928@iitism.ac.in (To gain access to our data, get help, or fully understand how to create your own RAG pipeline.)
+
+2. Siddharth Mishra
+- 21je0918@iitism.ac.in (If you need help creating and integrating your own RAG pipeline with the chat agent in the project.)
 
 ### STEPS
 
